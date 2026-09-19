@@ -1,6 +1,6 @@
 # Taleh Malikov | HCI MS student
 
-[CV  ](https://drive.google.com/file/d/1seiBc8jvrxh-K9OGOiQ46J4EmxEAjkUj/view?usp=sharing)      [GitHub  ](https://github.com/talehmalikov)      [Twitter  ](https://x.com/tmlikov)      [LinkedIn  ](https://www.linkedin.com/in/talehmalikov/)
+[CV  ](https://drive.google.com/file/d/16jaDLBQhYdH6oqIpq-fHm77lfYT7xFD6/view?usp=sharing)      [GitHub  ](https://github.com/talehmalikov)      [Twitter  ](https://x.com/tmlikov)      [LinkedIn  ](https://www.linkedin.com/in/talehmalikov/)
 
 Taleh Malikov is a Computer Science M.S. student at University of Chicago. He is a student researcher in the [Human Computer Integration Lab](http://lab.plopes.org), directed by Professor Pedro Lopes. 
 
