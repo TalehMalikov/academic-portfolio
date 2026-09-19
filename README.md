@@ -2,9 +2,9 @@
 
 [CV  ](https://drive.google.com/file/d/1seiBc8jvrxh-K9OGOiQ46J4EmxEAjkUj/view?usp=sharing)      [GitHub  ](https://github.com/talehmalikov)      [Twitter  ](https://x.com/tmlikov)      [LinkedIn  ](https://www.linkedin.com/in/talehmalikov/)
 
-Taleh Malikov is a Computer Science M.S. student at University of Chicago. He worked in the [Human Computer Integration Lab](http://lab.plopes.org), directed by Professor Pedro Lopes. 
+Taleh Malikov is a Computer Science M.S. student at University of Chicago. He works in the [Human Computer Integration Lab](http://lab.plopes.org), directed by Professor Pedro Lopes. 
 
-His work focuses on Human-Computer Interaction. He builds interfaces for systems that act through the body rather than alongside it — most recently on making an embodied AI model's motor intent visible and inspectable without requiring a participant wired to stimulation hardware.
+His work focuses on Human-Computer Interaction. He builds interfaces for systems that act through the body rather than alongside it — currently on making an embodied AI model's motor intent visible and inspectable without requiring a participant wired to stimulation hardware.
 
 Before UChicago, Taleh spent three years building production distributed systems, including a national health insurance platform serving 200+ hospitals and over 10 million citizens.
 
