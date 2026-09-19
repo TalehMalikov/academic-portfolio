@@ -15,7 +15,10 @@ Before UChicago, Taleh spent three years building production distributed systems
 
 [live interface](https://avatar.plopes.org), [lab](https://lab.plopes.org/)
 
+<!-- when the recording is ready, save it as assets/media/avatar.mp4 and delete the
+     two comment markers around the line below
 <video src="assets/media/avatar.mp4" autoplay loop muted playsinline width="100%"></video>
+-->
 
 Studying systems that communicate through the body normally requires a participant wired to electrical muscle stimulation hardware before anyone can see what the model is doing. I built a 3D avatar that removes that dependency: it translates the model's output into skeletal joint commands and renders the motion in a browser. Each command is checked against the anatomical range of the joint it targets, and the interface shows the requested value beside the applied one, so a motion the body could not perform reads as a visible constraint rather than an impossible pose. It runs as the lab's public interface for this work, with a manual control mode and a debug mode for stepping through a sequence command by command.
 
