@@ -1,69 +1,46 @@
 # Taleh Malikov | HCI MS student
 
-[CV](https://drive.google.com/file/d/1seiBc8jvrxh-K9OGOiQ46J4EmxEAjkUj/view?usp=sharing) &nbsp; [GitHub](https://github.com/talehmalikov) &nbsp; [Twitter](https://x.com/tmlikov) &nbsp; [LinkedIn](https://www.linkedin.com/in/talehmalikov/) &nbsp; [Email](mailto:tmalikov@uchicago.edu)
+[CV  ](https://drive.google.com/file/d/1seiBc8jvrxh-K9OGOiQ46J4EmxEAjkUj/view?usp=sharing)      [GitHub  ](https://github.com/talehmalikov)      [Twitter  ](https://x.com/tmlikov)      [LinkedIn  ](https://www.linkedin.com/in/talehmalikov/)
 
-Taleh Malikov is a Computer Science M.S. student at the University of Chicago and a research
-assistant in the [Human Computer Integration Lab](http://lab.plopes.org), advised by
-[Professor Pedro Lopes](http://lab.plopes.org).
+Taleh Malikov is a Computer Science M.S. student at University of Chicago and a research assistant in the [Human Computer Integration Lab](http://lab.plopes.org), directed by Professor Pedro Lopes. 
 
-His work focuses on interfaces for systems that act through the body rather than alongside it —
-currently on making an embodied AI model's motor intent visible and inspectable without requiring
-a participant wired to stimulation hardware. Before UChicago he spent three years building
-production distributed systems, including a national health insurance platform serving 200+
-hospitals; that background shapes what he wants to study, since interactive research is only as
-good as the infrastructure under it.
+His work focuses on Human-Computer Interaction. He builds interfaces for systems that act through the body rather than alongside it — currently on making an embodied AI model's motor intent visible and inspectable without requiring a participant wired to stimulation hardware.
 
----
+Before UChicago, Taleh spent three years building production distributed systems, including a national health insurance platform serving 200+ hospitals and over 10 million citizens.
 
-### Research
 
-<div style="display:flex;flex-wrap:wrap;gap:22px;align-items:flex-start;margin:22px 0 30px">
-  <img src="/assets/img/avatar.gif" alt="The avatar translating model output into joint motion" width="250" style="border:1px solid #e1e4e8;border-radius:3px;max-width:100%">
-  <div style="flex:1;min-width:260px">
-    <b>An avatar interface for embodied AI motor commands</b><br>
-    <b>Taleh Malikov</b>, Romain Nith, Pedro Lopes<br>
-    <i>Human Computer Integration Lab, University of Chicago, 2026</i><br><br>
-    Studying systems that communicate through the body normally requires a participant wired to
-    electrical muscle stimulation hardware before anyone can see what the model is doing. I built a
-    3D avatar that removes that dependency: it translates the model's output into skeletal joint
-    commands and renders the motion in a browser. Each command is checked against the anatomical
-    range of the joint it targets, and the interface shows the requested value beside the applied
-    one, so a motion the body could not perform reads as a visible constraint rather than an
-    impossible pose. It runs as the lab's public interface for this work, with a manual control
-    mode and a debug mode for stepping through a sequence command by command.<br><br>
-    <a href="https://avatar.plopes.org">Live interface</a> &nbsp;/&nbsp;
-    <a href="https://lab.plopes.org/">Lab</a>
-  </div>
-</div>
+## Research
+### An avatar interface for embodied AI motor commands
+**Taleh Malikov**, Romain Nith, Pedro Lopes. Human Computer Integration Lab, University of Chicago, 2026
 
----
+[live interface](https://avatar.plopes.org), [lab](https://lab.plopes.org/)
 
-### Teaching
+<video src="assets/media/avatar.mp4" autoplay loop muted playsinline width="100%"></video>
 
-**Teaching Assistant, Cloud Computing (Graduate)** — University of Chicago, Fall 2026
+Studying systems that communicate through the body normally requires a participant wired to electrical muscle stimulation hardware before anyone can see what the model is doing. I built a 3D avatar that removes that dependency: it translates the model's output into skeletal joint commands and renders the motion in a browser. Each command is checked against the anatomical range of the joint it targets, and the interface shows the requested value beside the applied one, so a motion the body could not perform reads as a visible constraint rather than an impossible pose. It runs as the lab's public interface for this work, with a manual control mode and a debug mode for stepping through a sequence command by command.
 
-**Instructor, introductory Python labs** — The Academy of Public Administration, 2021–2023. Weekly labs and office hours, 30 students.
 
----
+## Teaching
+### Teaching Assistant, Cloud Computing (Graduate)
+University of Chicago, Fall 2026
 
-### Before UChicago
+### Instructor, Introductory Python Labs
+The Academy of Public Administration, 2021–2023
 
-**Software Engineer**, The State Agency on Mandatory Health Insurance, 2023–2025. Three clinical
-microservices for a HIMSS-certified national hospital system serving 200+ hospitals and over 10
-million citizens. Owned two systems end to end, including a records pipeline integrating three
-government organizations through an inter-agency gateway.
 
-**IT Specialist**, The Academy of Public Administration, 2023. Proposed and led the Academy's
-first electronic library, directing a five-person team. Still in use.
+## Experience
+### Software Engineer
+The State Agency on Mandatory Health Insurance, 2023–2025
 
----
+Built three clinical microservices (registration, laboratory, radiology) for a HIMSS-certified national hospital system serving 200+ hospitals and over 10 million citizens. Owned two systems end to end, including a military conscript records pipeline integrating three government organizations through an inter-agency gateway with electronic signing.
 
-### Education
+### Information Technology Specialist
+The Academy of Public Administration, 2023
 
+Proposed and led the Academy's first electronic library — directed a five-person team, built the application and full API layer, and deployed it on Academy infrastructure. Still in active use.
+
+
+## Education
 **M.S. Computer Science**, University of Chicago, 2025–2027. Specialization in Artificial Intelligence.
 
 **B.S. Computer Science**, The Academy of Public Administration, 2024. 96.96/100, graduated with honors.
-
----
-
-<sub>Site template adapted from <a href="https://www.yunho.org/">Yun Ho</a>'s website.</sub>
