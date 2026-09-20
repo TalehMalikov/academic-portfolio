@@ -2,7 +2,7 @@
 
 [CV  ](https://drive.google.com/file/d/1PPEp4DFg7gdotE7yNBDjswKSxE_WEaeg/view?usp=sharing)      [GitHub  ](https://github.com/talehmalikov)      [Twitter  ](https://x.com/tmlikov)      [LinkedIn  ](https://www.linkedin.com/in/talehmalikov/)
 
-Taleh Malikov is a Computer Science M.S. student at University of Chicago. He is a student researcher in the [Human Computer Integration Lab](http://lab.plopes.org), directed by Professor Pedro Lopes. 
+Taleh Malikov is a Computer Science M.S. student at University of Chicago. He has worked in the [Human Computer Integration Lab](http://lab.plopes.org), directed by Professor Pedro Lopes, since spring 2026 — first through the MPCS practicum, then as a summer intern, and since then on continuing projects. 
 
 His work focuses on Human-Computer Interaction. He builds interfaces for systems that act through the body rather than alongside it — currently on making an embodied AI model's motor intent visible and inspectable without requiring a participant wired to stimulation hardware.
 
@@ -20,7 +20,7 @@ Before UChicago, Taleh spent three years building production distributed systems
 <video src="assets/media/avatar.mp4" autoplay loop muted playsinline width="100%"></video>
 -->
 
-Studying systems that communicate through the body normally requires a participant wired to electrical muscle stimulation hardware before anyone can see what the model is doing. I built a 3D avatar that removes that dependency: it translates the model's output into skeletal joint commands and renders the motion in a browser. Each command is checked against the anatomical range of the joint it targets, and the interface shows the requested value beside the applied one, so a motion the body could not perform reads as a visible constraint rather than an impossible pose. It runs as the lab's public interface for this work, with a manual control mode and a debug mode for stepping through a sequence command by command.
+Electrical muscle stimulation is normally only observable by being stimulated — you have to wear the electrodes to know what the system is doing. I built a 3D avatar that renders EMS commands as visible body motion instead, so the output can be inspected without a participant in the loop. Language-generated stimulation commands are mapped onto skeletal joint rotations and validated against anatomical limits, with the requested value shown beside the applied one, so a motion the body could not perform reads as a visible constraint rather than an impossible pose. It runs as the lab's public interface for this work, with a manual control mode and a debug mode for stepping through a sequence command by command, and is extending toward closed-loop EMS with biomechanical simulation.
 
 
 ## Awards
