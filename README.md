@@ -41,7 +41,7 @@ Built three clinical microservices (registration, laboratory, radiology) for a H
 ### Information Technology Specialist
 The Academy of Public Administration, 2023
 
-Proposed and led the Academy's first electronic library — directed a five-person team, built the application and full API layer, and deployed it on Academy infrastructure. Still in active use.
+Proposed and led the Academy's first electronic library ([lib.dia.edu.az](https://lib.dia.edu.az)) — directed a five-person team, built the application and full API layer, and deployed it on Academy infrastructure. Still in active use.
 
 
 ## Education
