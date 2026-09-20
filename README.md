@@ -4,7 +4,7 @@
 
 Taleh Malikov is a Computer Science M.S. student at University of Chicago. He is a research assistant in the [Human Computer Integration Lab](http://lab.plopes.org), directed by Professor Pedro Lopes. 
 
-His work focuses on Human-Computer Interaction. He builds interfaces for systems that act through the body rather than alongside it — currently on making an embodied AI model's motor intent visible and inspectable without requiring a participant wired to stimulation hardware.
+His work focuses on Human-Computer Interaction. He explores how biomechanical simulation can stand in for a real body, so systems that act on the body can be designed and tested in 3D before they reach a wearer.
 
 Before UChicago, Taleh spent three years building production distributed systems, including a national health insurance platform serving 200+ hospitals and over 10 million citizens.
 
@@ -28,10 +28,10 @@ Electrical muscle stimulation is normally only observable by being stimulated �
 
 
 ## Teaching
-### Teaching Assistant, Cloud Computing (Graduate)
+### Teaching Assistant, Cloud Computing
 University of Chicago, Fall 2026
 
-### Teaching Assistant, Programming Principles (introductory Python)
+### Teaching Assistant, Programming Principles (Python)
 The Academy of Public Administration, 2021–2023
 
 
