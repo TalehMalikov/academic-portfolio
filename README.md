@@ -13,7 +13,7 @@ Before UChicago, Taleh spent three years building production distributed systems
 ### An avatar interface for embodied AI motor commands
 **Taleh Malikov**, Romain Nith, Pedro Lopes. Human Computer Integration Lab, University of Chicago, 2026
 
-[live interface](https://avatar.plopes.org), [lab](https://lab.plopes.org/)
+[live interface](https://avatar.plopes.org)
 
 <video src="assets/media/avatar.mp4" autoplay loop muted playsinline width="100%"></video>
 
