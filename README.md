@@ -15,7 +15,7 @@ Before UChicago, Taleh spent three years building production distributed systems
 
 [live interface](https://avatar.plopes.org)
 
-<video src="assets/media/avatar.mp4" autoplay loop muted playsinline width="100%"></video>
+<video src="assets/media/avatar.mp4" autoplay loop muted playsinline style="display:block;width:100%"></video>
 
 Electrical muscle stimulation is normally only observable by being stimulated — you have to wear the electrodes to know what the system is doing. I built a 3D avatar that renders EMS commands as visible body motion instead, so the output can be inspected without a participant in the loop. Language-generated stimulation commands are mapped onto skeletal joint rotations and validated against anatomical limits, with the requested value shown beside the applied one, so a motion the body could not perform reads as a visible constraint rather than an impossible pose. It runs as the lab's public interface for this work, with a manual control mode and a debug mode for stepping through a sequence command by command, and is extending toward closed-loop EMS with biomechanical simulation.
 
