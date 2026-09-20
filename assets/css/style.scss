@@ -10,3 +10,12 @@ header img {
   object-fit: cover;
   border-radius: 50%;
 }
+
+/* On narrow screens the theme stacks the header above the content —
+   centre the portrait instead of leaving it hard against the left edge. */
+@media screen and (max-width: 960px) {
+  header img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
