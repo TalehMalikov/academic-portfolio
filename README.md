@@ -23,6 +23,10 @@ Before UChicago, Taleh spent three years building production distributed systems
 Studying systems that communicate through the body normally requires a participant wired to electrical muscle stimulation hardware before anyone can see what the model is doing. I built a 3D avatar that removes that dependency: it translates the model's output into skeletal joint commands and renders the motion in a browser. Each command is checked against the anatomical range of the joint it targets, and the interface shows the requested value beside the applied one, so a motion the body could not perform reads as a visible constraint rather than an impossible pose. It runs as the lab's public interface for this work, with a manual control mode and a debug mode for stepping through a sequence command by command.
 
 
+## Awards
+**Scholar, State Program for Education of Azerbaijani Youth Abroad**, 2026. Azerbaijan's flagship government scholarship for graduate study abroad, providing full funding.
+
+
 ## Teaching
 ### Teaching Assistant, Cloud Computing (Graduate)
 University of Chicago, Fall 2026
