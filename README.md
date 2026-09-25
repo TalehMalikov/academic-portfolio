@@ -5,7 +5,7 @@
 Taleh Malikov is a Computer Science M.S. student at University of Chicago. He is a research assistant in the [Human Computer Integration Lab](http://lab.plopes.org), directed by Professor Pedro Lopes. 
 
 His work focuses on Human-Computer Interaction. He explores how biomechanical simulation can stand in for a real body, so systems that act on the body can be designed and tested in 3D before they reach a wearer.
-
+ 
 Before UChicago, Taleh spent three years building production distributed systems, including a national health insurance platform serving 200+ hospitals and over 10 million citizens.
 
 
